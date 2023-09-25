@@ -1,1 +1,8 @@
-here is our 1st project
+How to work with Git on our project
+
+commands:
+
+git init-git starts with project file
+git status:
+git add gitDemo.txt-to staging area
+git commit -m " commit to local rep" -commit to local rep
